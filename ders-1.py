@@ -28,3 +28,9 @@ sayi3 = "10"
 type(sayi3)
 toplam = int(sayi3) + sayi1
 print "toplam: ", toplam
+
+# yazdiklarimizi dosyadan calistirma
+# asagidaki dosyaya kaydedelim yapilanlari
+vim python-uygulamam.py
+# calistir
+python python-uygulamam.py
